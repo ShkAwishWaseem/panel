@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Salsa&display=swap');
+
+body{
+  font-family: 'Salsa', cursive;
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  display: flex;
+  height: 100vh;
+  justify-content: center;
+  align-items: center;
+  background-image: url("../public/imgs/bbblurry.svg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size:cover ;
+}
+
