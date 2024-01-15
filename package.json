@@ -1,7 +1,7 @@
 {
   "name": "panel-new",
   "version": "0.1.0",
-  "homepage": "https://shkawishwaseem.github.io/panel/",
+  "homepage": "https://shkawishwaseem.github.io/ustaz-panel/",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
